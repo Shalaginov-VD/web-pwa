@@ -1,6 +1,7 @@
 body {
     margin: 0;
     font-size: 2rem;
+    font-family: Impact, sans-serif;
 }
 
 .container {
@@ -24,10 +25,11 @@ body {
 
 .input-div button {
     font-size: 2rem;
+    font-family: Impact;
     width: 75%;
     display: block;
     margin: 0 auto;
-    background-color: darkblue;
+    background-color: rgb(136, 36, 36);
     color: white;
     padding: 10px;
     border-radius: 50px;
